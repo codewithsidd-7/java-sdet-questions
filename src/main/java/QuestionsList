@@ -1,0 +1,55 @@
+# ✅ Problems You’ve Solved
+
+## 🔹 Strings
+
+1. Reverse a String
+2. Palindrome Check
+3. Count Vowels
+4. Count Vowels + Consonants
+5. Remove Duplicate Characters
+6. First Non-Repeating Character (**in progress now**)
+
+---
+
+## 🔹 Arrays
+
+7. Find Largest Number in Array
+8. Find Second Largest Number in Array
+9. Move Zeros to End ✅ *(just completed)*
+
+---
+
+## 🔹 HashSet
+
+10. Find Duplicate Numbers in Array
+
+---
+
+## 🔹 HashMap
+
+11. Count Frequency of Characters
+12. Two Sum
+13. Valid Anagram ✅
+14. Frequency of Numbers in Array ✅
+
+---
+
+# 📊 Summary
+
+```text
+Total Solved: 13
+In Progress: 1
+```
+
+---
+
+# 🧠 Patterns You’ve Covered
+
+```text
+Basic loops
+String traversal
+Array traversal
+Max tracking
+HashSet (duplicates)
+HashMap (frequency & lookup)
+Two Pointer (Move Zeros)
